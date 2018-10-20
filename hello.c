@@ -9,6 +9,7 @@ int solve35(int n){
     }
     n--;
   }
+  return a;
 }
 
 int sum_prime(int num){
